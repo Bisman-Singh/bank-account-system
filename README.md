@@ -27,3 +27,5 @@ Menu options:
 3. **Withdraw** - Enter account number and amount
 4. **Balance** - View balance by account number
 5. **Quit** - Save and exit
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
